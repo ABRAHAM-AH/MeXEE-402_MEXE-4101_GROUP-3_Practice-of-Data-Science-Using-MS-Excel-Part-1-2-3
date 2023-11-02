@@ -92,12 +92,15 @@ Data Science Using MS Excel Part 2B-2: Math Functions (COUNT,COUNTA,COUNTBLANK,L
 
 Data Science Using MS Excel Part 2B-3: Math Functions (CEILING&FLOOR,EVEN,ODD,ROUND,TRUNC)
 
+**CEILING&FLOOR Function**
 
+**EVEN Function**
 
+**ODD Function**
 
+**ROUND Function**
 
-
-
+**TRUNC Function**
 
 Data Science Using MS Excel Part 3: Logical Functions (IF,AND,OR,NOT,XOR,ISBLANK,IFERROR,IFNA)
 
