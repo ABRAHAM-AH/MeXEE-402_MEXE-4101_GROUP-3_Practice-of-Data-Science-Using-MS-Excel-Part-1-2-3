@@ -50,6 +50,16 @@ Data Science Using MS Excel Part 2B-1: Math Functions (POWER,SQRT,QUOTIENT,MOD,A
 
 Data Science Using MS Excel Part 2B-2: Math Functions (COUNT,COUNTA,COUNTBLANK,LARGE,SMALL,MIN&MAX,SUM,MEDIAN,PRODUCT,SUBTOTAL)
 
+**COUNT Function**
+
+![count](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/043c8d4b-7a63-47fe-b097-1acec20ee6c8)
+
+
+
+
+
+
+
 Data Science Using MS Excel Part 2B-3: Math Functions (CEILING&FLOOR,EVEN&ODD,ROUND&TRUNC)
 
 Data Science Using MS Excel Part 3: Logical Functions (IF,AND,OR,NOT,XOR,ISBLANK,IFERROR,IFNA)
