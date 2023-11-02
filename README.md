@@ -102,6 +102,8 @@ Data Science Using MS Excel Part 2B-3: Math Functions (CEILING&FLOOR,EVEN,ODD,RO
 
 **ODD Function**
 
+![odd](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/2b5c8984-a3a9-40c9-8730-6196c0fadd12)
+
 **ROUND Function**
 
 **TRUNC Function**
