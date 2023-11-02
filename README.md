@@ -98,6 +98,8 @@ Data Science Using MS Excel Part 2B-3: Math Functions (CEILING&FLOOR,EVEN,ODD,RO
 
 **EVEN Function**
 
+![even](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/c7ed256d-0b5c-4a31-ba39-819493ebc253)
+
 **ODD Function**
 
 **ROUND Function**
