@@ -32,6 +32,11 @@ Data Science Using MS Excel Part 2B-1: Math Functions (POWER,SQRT,QUOTIENT,MOD,A
 
 ![sqrt](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/e3a57b4b-d016-4e99-9f3f-b3afc9439b12)
 
+**QUOTIENT Function**
+
+![quotient](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/8b00e653-dba6-4cac-97c2-9ea617a0acf7)
+
+
 
 
 Data Science Using MS Excel Part 2B-2: Math Functions (COUNT,MIN&MAX,SUM,MEDIAN,PRODUCT,SUBTOTAL)
