@@ -14,6 +14,11 @@ Data Science Using MS Excel Part 2A: Math Functions (ABS,SIGN,GCD,LCD)
 
 ![Screenshot 2023-11-02 140506](https://github.com/ROXAS-NA/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel/assets/143602214/1216cf05-ab2e-4655-a9f6-404158da0caf)
 
+**GCD Function**
+
+![Screenshot 2023-11-02 140515](https://github.com/ROXAS-NA/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel/assets/143602214/6fd96d68-914b-4071-944c-dcf35da05006)
+
+
 
 
 Data Science Using MS Excel Part 2B-1: Math Functions (POWER,SQRT,QUOTIENT,MOD,AVERAGE)
