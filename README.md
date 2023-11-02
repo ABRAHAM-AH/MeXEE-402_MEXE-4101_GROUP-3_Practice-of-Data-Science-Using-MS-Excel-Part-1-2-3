@@ -106,6 +106,8 @@ Data Science Using MS Excel Part 2B-3: Math Functions (CEILING&FLOOR,EVEN,ODD,RO
 
 **ROUND Function**
 
+![round](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/a62acfb6-8d49-403e-ac34-4eaea476c9c0)
+
 **TRUNC Function**
 
 Data Science Using MS Excel Part 3: Logical Functions (IF,AND,OR,NOT,XOR,ISBLANK,IFERROR,IFNA,COUNTIF,SUMIF)
