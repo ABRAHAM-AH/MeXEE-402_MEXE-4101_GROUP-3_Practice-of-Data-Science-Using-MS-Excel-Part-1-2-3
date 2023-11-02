@@ -48,7 +48,7 @@ Data Science Using MS Excel Part 2B-1: Math Functions (POWER,SQRT,QUOTIENT,MOD,A
 
 ![averageifs](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/7cf872f6-dda5-450f-b0bb-f8ac09e4b7c7)
 
-Data Science Using MS Excel Part 2B-2: Math Functions (COUNT,MIN&MAX,SUM,MEDIAN,PRODUCT,SUBTOTAL)
+Data Science Using MS Excel Part 2B-2: Math Functions (COUNT,COUNTA,COUNTBLANK,LARGE,SMALL,MIN&MAX,SUM,MEDIAN,PRODUCT,SUBTOTAL)
 
 Data Science Using MS Excel Part 2B-3: Math Functions (CEILING&FLOOR,EVEN&ODD,ROUND&TRUNC)
 
