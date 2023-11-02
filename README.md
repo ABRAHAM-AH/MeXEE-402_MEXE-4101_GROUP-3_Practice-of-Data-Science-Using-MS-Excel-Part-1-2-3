@@ -152,6 +152,6 @@ Data Science Using MS Excel Part 3: Logical Functions (IF,AND,OR,NOT,XOR,ISBLANK
 
 **SUMIF Function**
 
-
+![sumif](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/dd41308d-e28b-407d-a3b1-15a46f268234)
 
 # **CO-AUTHORS: NIKKITA ANDREA ROXAS AND JHODIELEN MARABI**
