@@ -76,7 +76,12 @@ Data Science Using MS Excel Part 2B-2: Math Functions (COUNT,COUNTA,COUNTBLANK,L
 
 **SUM Function**
 
+![sum](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/7b3772b1-61ab-411a-b357-1d8b11def28c)
 
+**MEDIAN Function**
+
+
+**PRODUCT Function**
 
 
 
