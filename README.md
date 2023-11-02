@@ -72,8 +72,11 @@ Data Science Using MS Excel Part 2B-2: Math Functions (COUNT,COUNTA,COUNTBLANK,L
 
 **MIN&MAX Function**
 
+![min_max](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/5fa03497-ee26-45cd-948a-e9beaf328ada)
 
 **SUM Function**
+
+
 
 
 
