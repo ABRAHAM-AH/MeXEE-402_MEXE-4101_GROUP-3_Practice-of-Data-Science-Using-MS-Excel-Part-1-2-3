@@ -64,6 +64,8 @@ Data Science Using MS Excel Part 2B-2: Math Functions (COUNT,COUNTA,COUNTBLANK,L
 
 **LARGE Function**
 
+![large](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/c040300e-ae74-4849-ae9f-8090a7d9f97f)
+
 **SMALL Function**
 
 
