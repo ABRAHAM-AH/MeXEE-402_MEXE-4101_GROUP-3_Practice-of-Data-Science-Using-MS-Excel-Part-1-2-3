@@ -68,6 +68,14 @@ Data Science Using MS Excel Part 2B-2: Math Functions (COUNT,COUNTA,COUNTBLANK,L
 
 **SMALL Function**
 
+![small](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/dabdcf39-04b2-434c-b8bf-b7edaaa76c3e)
+
+**MIN&MAX Function**
+
+
+**SUM Function**
+
+
 
 Data Science Using MS Excel Part 2B-3: Math Functions (CEILING&FLOOR,EVEN&ODD,ROUND&TRUNC)
 
