@@ -116,6 +116,8 @@ Data Science Using MS Excel Part 3: Logical Functions (IF,AND,OR,NOT,XOR,ISBLANK
 
 **IF Function**
 
+![if](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/874b6860-0c2e-48b0-937f-072c629bf362)
+
 **AND Function**
 
 **OR Function**
