@@ -102,7 +102,7 @@ Data Science Using MS Excel Part 2B-3: Math Functions (CEILING&FLOOR,EVEN,ODD,RO
 
 **TRUNC Function**
 
-Data Science Using MS Excel Part 3: Logical Functions (IF,AND,OR,NOT,XOR,ISBLANK,IFERROR,IFNA)
+Data Science Using MS Excel Part 3: Logical Functions (IF,AND,OR,NOT,XOR,ISBLANK,IFERROR,IFNA,COUNTIF,SUMIF)
 
 
 
