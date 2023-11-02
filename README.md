@@ -8,7 +8,7 @@ Data Science Using MS Excel Part 2A: Math Functions (ABS,SIGN,GCD,LCD)
 
 **ABS Function**
 
-
+![abs](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/a16d7917-f843-4062-9a88-76d9d7d47a5c)
 
 **SIGN Function**
 
