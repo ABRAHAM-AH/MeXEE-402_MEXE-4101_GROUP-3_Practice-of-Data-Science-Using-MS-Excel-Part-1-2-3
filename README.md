@@ -4,7 +4,7 @@ _"Using Microsoft Excel to Practice Data Science along with its Functions"_
 Data Science Using MS Excel Part 1: Text Functions
 ![text](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/c2d6cba8-40da-4eba-be30-cda6ea525894)
 
-Data Science Using MS Excel Part 2A: Math Functions (ABS,SIGN,GCD,LCD)
+Data Science Using MS Excel Part 2A: Math Functions (ABS,SIGN,GCD,LCM)
 
 **ABS Function**
 
@@ -22,9 +22,11 @@ Data Science Using MS Excel Part 2A: Math Functions (ABS,SIGN,GCD,LCD)
 
 ![lcm](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/506c0008-ad4f-4fd6-b873-e642d7bee363)
 
-
-
 Data Science Using MS Excel Part 2B-1: Math Functions (POWER,SQRT,QUOTIENT,MOD,AVERAGE)
+
+**POWER Function**
+
+![power](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/50b4985f-5255-4fa6-8753-89272bda28a0)
 
 Data Science Using MS Excel Part 2B-2: Math Functions (COUNT,MIN&MAX,SUM,MEDIAN,PRODUCT,SUBTOTAL)
 
