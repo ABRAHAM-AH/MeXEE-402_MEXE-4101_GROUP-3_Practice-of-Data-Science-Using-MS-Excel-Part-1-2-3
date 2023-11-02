@@ -84,9 +84,20 @@ Data Science Using MS Excel Part 2B-2: Math Functions (COUNT,COUNTA,COUNTBLANK,L
 
 **PRODUCT Function**
 
+![product](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/61dc1a90-2bb8-4743-bdf0-7485da893c93)
 
+**SUBTOTAL Function**
+
+![subtotal](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/902ccda9-f18d-411d-8f08-4c7778a2d3f8)
 
 Data Science Using MS Excel Part 2B-3: Math Functions (CEILING&FLOOR,EVEN&ODD,ROUND&TRUNC)
+
+
+
+
+
+
+
 
 Data Science Using MS Excel Part 3: Logical Functions (IF,AND,OR,NOT,XOR,ISBLANK,IFERROR,IFNA)
 
