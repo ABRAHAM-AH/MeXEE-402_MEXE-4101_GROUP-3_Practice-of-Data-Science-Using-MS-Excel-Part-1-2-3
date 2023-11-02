@@ -18,9 +18,9 @@ Data Science Using MS Excel Part 2A: Math Functions (ABS,SIGN,GCD,LCD)
 
 ![gcd](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/766a2863-7558-47ba-bdec-ec341cc10efd)
 
-**LCD Function**
+**LCM Function**
 
-![Screenshot 2023-11-02 140526](https://github.com/ROXAS-NA/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel/assets/143602214/832ea1f5-2b4f-4387-b7d8-c3ce18ab5ffc)
+![lcm](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/506c0008-ad4f-4fd6-b873-e642d7bee363)
 
 
 
