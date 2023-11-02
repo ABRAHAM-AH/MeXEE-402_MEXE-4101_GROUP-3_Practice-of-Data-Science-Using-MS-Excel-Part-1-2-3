@@ -94,6 +94,8 @@ Data Science Using MS Excel Part 2B-3: Math Functions (CEILING&FLOOR,EVEN,ODD,RO
 
 **CEILING&FLOOR Function**
 
+![ceiling floor](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/87d1caca-b200-4592-8714-a7ce9258f45c)
+
 **EVEN Function**
 
 **ODD Function**
