@@ -6,6 +6,11 @@ Data Science Using MS Excel Part 1: Text Functions
 
 Data Science Using MS Excel Part 2A: Math Functions (ABS,SIGN,GCD,LCD)
 
+**ABS Function**
+
+![Screenshot 2023-11-02 140456](https://github.com/ROXAS-NA/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel/assets/143602214/2f53a2cf-7101-4141-b007-1e8af87c3d6d)
+
+
 Data Science Using MS Excel Part 2B-1: Math Functions (POWER,SQRT,QUOTIENT,MOD,AVERAGE)
 
 Data Science Using MS Excel Part 2B-2: Math Functions (COUNT,MIN&MAX,SUM,MEDIAN,PRODUCT,SUBTOTAL)
