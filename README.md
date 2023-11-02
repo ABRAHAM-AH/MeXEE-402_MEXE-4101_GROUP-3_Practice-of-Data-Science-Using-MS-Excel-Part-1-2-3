@@ -148,8 +148,9 @@ Data Science Using MS Excel Part 3: Logical Functions (IF,AND,OR,NOT,XOR,ISBLANK
 
 **COUNTIF Function**
 
-**SUMIF Function**
+![countif](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/be6205b9-9c16-41ba-959d-c2e89bd02529)
 
+**SUMIF Function**
 
 
 
