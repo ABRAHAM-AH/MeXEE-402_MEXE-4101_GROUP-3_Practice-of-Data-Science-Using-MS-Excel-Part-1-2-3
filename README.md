@@ -144,6 +144,8 @@ Data Science Using MS Excel Part 3: Logical Functions (IF,AND,OR,NOT,XOR,ISBLANK
 
 **IFNA Function**
 
+![ifna](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/9cfee309-d21e-46b6-804e-7247a6ecc0bd)
+
 **COUNTIF Function**
 
 **SUMIF Function**
