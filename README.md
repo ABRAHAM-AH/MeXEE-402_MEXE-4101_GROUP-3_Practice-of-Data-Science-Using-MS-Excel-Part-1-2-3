@@ -22,7 +22,7 @@ Data Science Using MS Excel Part 2A: Math Functions (ABS,SIGN,GCD,LCM)
 
 ![lcm](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/506c0008-ad4f-4fd6-b873-e642d7bee363)
 
-Data Science Using MS Excel Part 2B-1: Math Functions (POWER,SQRT,QUOTIENT,MOD,AVERAGE)
+Data Science Using MS Excel Part 2B-1: Math Functions (POWER,SQRT,QUOTIENT,MOD,AVERAGE,AVERAGEIFS)
 
 **POWER Function**
 
@@ -44,11 +44,16 @@ Data Science Using MS Excel Part 2B-1: Math Functions (POWER,SQRT,QUOTIENT,MOD,A
 
 ![average](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/7545054d-c0af-424c-9b7f-48e4348d76b9
 
+**AVERAGEIFS Function**
+
+![averageifs](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/7cf872f6-dda5-450f-b0bb-f8ac09e4b7c7)
 
 Data Science Using MS Excel Part 2B-2: Math Functions (COUNT,MIN&MAX,SUM,MEDIAN,PRODUCT,SUBTOTAL)
 
 Data Science Using MS Excel Part 2B-3: Math Functions (CEILING&FLOOR,EVEN&ODD,ROUND&TRUNC)
 
 Data Science Using MS Excel Part 3: Logical Functions (IF,AND,OR,NOT,XOR,ISBLANK,IFERROR,IFNA)
+
+
 
 # **CO-AUTHORS: NIKKITA ANDREA ROXAS AND JHODIELEN MARABI**
