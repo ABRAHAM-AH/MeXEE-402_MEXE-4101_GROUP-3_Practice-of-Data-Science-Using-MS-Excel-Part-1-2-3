@@ -110,11 +110,11 @@ Data Science Using MS Excel Part 3: Logical Functions (IF,AND,OR,NOT,XOR,ISBLANK
 
 **OR Function**
 
+**NOT Function**
 
+**XOR Function**
 
-
-
-
+**ISBLANK Function**
 
 
 
