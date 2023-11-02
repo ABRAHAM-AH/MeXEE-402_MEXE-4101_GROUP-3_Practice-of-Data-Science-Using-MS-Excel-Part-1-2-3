@@ -2,6 +2,7 @@
 _"Using Microsoft Excel to Practice Data Science along with its Functions"_
 
 Data Science Using MS Excel Part 1: Text Functions
+![Screenshot 2023-11-02 140402](https://github.com/ROXAS-NA/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel/assets/143602214/17a8d560-476f-4b1f-b34f-da0f1125f9ff)
 
 Data Science Using MS Excel Part 2A: Math Functions (ABS,SIGN,GCD,LCD)
 
