@@ -140,6 +140,8 @@ Data Science Using MS Excel Part 3: Logical Functions (IF,AND,OR,NOT,XOR,ISBLANK
 
 **IFERROR Function**
 
+![iferror](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/71cef3c6-a07b-42b0-b24c-999d7858346b)
+
 **IFNA Function**
 
 **COUNTIF Function**
