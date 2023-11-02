@@ -54,6 +54,13 @@ Data Science Using MS Excel Part 2B-2: Math Functions (COUNT,COUNTA,COUNTBLANK,L
 
 ![count](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/043c8d4b-7a63-47fe-b097-1acec20ee6c8)
 
+**COUNTA Function**
+
+![counta](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/ec61faf7-fd6c-45fd-a03a-003d6047c2a5)
+
+
+
+
 
 
 
