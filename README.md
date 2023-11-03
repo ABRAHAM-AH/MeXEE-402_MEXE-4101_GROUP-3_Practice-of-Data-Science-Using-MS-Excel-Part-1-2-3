@@ -13,9 +13,9 @@
 
 # <p align="center">![sign](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/e5bb2750-815d-457d-b2fa-c6843c372c39)</p>
 
-**GCD Function**
+## <p align="center">**GCD Function**</p>
 
-![gcd](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/766a2863-7558-47ba-bdec-ec341cc10efd)
+# <p align="center">![gcd](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/766a2863-7558-47ba-bdec-ec341cc10efd)</p>
 
 **LCM Function**
 
