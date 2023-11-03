@@ -115,42 +115,42 @@
 
 ## <p align="center">**IF Function**</p>
 
-![if](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/874b6860-0c2e-48b0-937f-072c629bf362)
+# <p align="center">![if](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/874b6860-0c2e-48b0-937f-072c629bf362)</p>
 
 ## <p align="center">**AND Function**</p>
 
-![and](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/e145274b-c671-4b78-b39c-8d3552438308)
+# <p align="center">![and](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/e145274b-c671-4b78-b39c-8d3552438308)</p>
 
 ## <p align="center">**OR Function**</p>
 
-![or](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/96fd9da8-b40c-42a6-a53d-f26147805ae5)
+# <p align="center">![or](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/96fd9da8-b40c-42a6-a53d-f26147805ae5)</p>
 
 ## <p align="center">**NOT Function**</p>
 
-![not](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/99727a40-2635-4c54-bd1f-914b7c00055c)
+# <p align="center">![not](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/99727a40-2635-4c54-bd1f-914b7c00055c)</p>
 
 ## <p align="center">**XOR Function**</p>
 
-![xor](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/cdaf3822-6dc7-436a-ab63-d3eab01e1d0c)
+# <p align="center">![xor](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/cdaf3822-6dc7-436a-ab63-d3eab01e1d0c)</p>
 
 ## <p align="center">**ISBLANK Function**</p>
 
-![isblank](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/50aaedfc-369f-4e3f-8ba7-aa4ee7d8f845)
+# <p align="center">![isblank](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/50aaedfc-369f-4e3f-8ba7-aa4ee7d8f845)</p>
 
 ## <p align="center">**IFERROR Function**</p>
 
-![iferror](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/71cef3c6-a07b-42b0-b24c-999d7858346b)
+# <p align="center">![iferror](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/71cef3c6-a07b-42b0-b24c-999d7858346b)</p>
 
 ## <p align="center">**IFNA Function**</p>
 
-![ifna](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/9cfee309-d21e-46b6-804e-7247a6ecc0bd)
+# <p align="center">![ifna](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/9cfee309-d21e-46b6-804e-7247a6ecc0bd)</p>
 
 ## <p align="center">**COUNTIF Function**</p>
 
-![countif](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/be6205b9-9c16-41ba-959d-c2e89bd02529)
+# <p align="center">![countif](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/be6205b9-9c16-41ba-959d-c2e89bd02529)</p>
 
 ## <p align="center">**SUMIF Function**</p>
 
-![sumif](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/dd41308d-e28b-407d-a3b1-15a46f268234)
+# <p align="center">![sumif](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/dd41308d-e28b-407d-a3b1-15a46f268234)</p>
 
 # **AUTHORS: ANGELA ABRAHAM, JHODIELEN MARABI, NIKKITA ANDREA ROXAS**
