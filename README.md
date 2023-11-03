@@ -47,45 +47,45 @@
 
 # <p align="center">![averageifs](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/7cf872f6-dda5-450f-b0bb-f8ac09e4b7c7)</p>
 
-Data Science Using MS Excel Part 2B-2: Math Functions (COUNT,COUNTA,COUNTBLANK,LARGE,SMALL,MIN&MAX,SUM,MEDIAN,PRODUCT,SUBTOTAL)
+# <p align="center">Data Science Using MS Excel Part 2B-2: Math Functions (COUNT,COUNTA,COUNTBLANK,LARGE,SMALL,MIN&MAX,SUM,MEDIAN,PRODUCT,SUBTOTAL)</p>
 
-**COUNT Function**
+## <p align="center">**COUNT Function**</p>
 
 ![count](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/043c8d4b-7a63-47fe-b097-1acec20ee6c8)
 
-**COUNTA Function**
+## <p align="center">**COUNTA Function**</p>
 
 ![counta](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/ec61faf7-fd6c-45fd-a03a-003d6047c2a5)
 
-**COUNTBLANK Function**
+## <p align="center">**COUNTBLANK Function**</p>
 
 ![countblank](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/82a0b5b4-ec0d-46e3-8bbb-69e96750ca0f)
 
-**LARGE Function**
+## <p align="center">**LARGE Function**</p>
 
 ![large](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/c040300e-ae74-4849-ae9f-8090a7d9f97f)
 
-**SMALL Function**
+## <p align="center">**SMALL Function**</p>
 
 ![small](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/dabdcf39-04b2-434c-b8bf-b7edaaa76c3e)
 
-**MIN&MAX Function**
+## <p align="center">**MIN&MAX Function**</p>
 
 ![min_max](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/5fa03497-ee26-45cd-948a-e9beaf328ada)
 
-**SUM Function**
+## <p align="center">**SUM Function**</p>
 
 ![sum](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/7b3772b1-61ab-411a-b357-1d8b11def28c)
 
-**MEDIAN Function**
+## <p align="center">**MEDIAN Function**</p>
 
 ![median](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/40d8ae40-601e-400d-8387-b9698a1229cd)
 
-**PRODUCT Function**
+## <p align="center">**PRODUCT Function**</p>
 
 ![product](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/61dc1a90-2bb8-4743-bdf0-7485da893c93)
 
-**SUBTOTAL Function**
+## <p align="center">**SUBTOTAL Function**</p>
 
 ![subtotal](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/902ccda9-f18d-411d-8f08-4c7778a2d3f8)
 
