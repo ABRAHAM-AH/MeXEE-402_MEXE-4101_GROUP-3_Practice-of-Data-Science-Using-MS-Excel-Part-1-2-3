@@ -111,45 +111,45 @@
 
 # <p align="center">![trunc](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/29755c6c-ac8c-4b95-ba6f-296bc16a89a8)</p>
 
-Data Science Using MS Excel Part 3: Logical Functions (IF,AND,OR,NOT,XOR,ISBLANK,IFERROR,IFNA,COUNTIF,SUMIF)
+# <p align="center">Data Science Using MS Excel Part 3: Logical Functions (IF,AND,OR,NOT,XOR,ISBLANK,IFERROR,IFNA,COUNTIF,SUMIF)</p>
 
-**IF Function**
+## <p align="center">**IF Function**</p>
 
 ![if](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/874b6860-0c2e-48b0-937f-072c629bf362)
 
-**AND Function**
+## <p align="center">**AND Function**</p>
 
 ![and](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/e145274b-c671-4b78-b39c-8d3552438308)
 
-**OR Function**
+## <p align="center">**OR Function**</p>
 
 ![or](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/96fd9da8-b40c-42a6-a53d-f26147805ae5)
 
-**NOT Function**
+## <p align="center">**NOT Function**</p>
 
 ![not](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/99727a40-2635-4c54-bd1f-914b7c00055c)
 
-**XOR Function**
+## <p align="center">**XOR Function**</p>
 
 ![xor](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/cdaf3822-6dc7-436a-ab63-d3eab01e1d0c)
 
-**ISBLANK Function**
+## <p align="center">**ISBLANK Function**</p>
 
 ![isblank](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/50aaedfc-369f-4e3f-8ba7-aa4ee7d8f845)
 
-**IFERROR Function**
+## <p align="center">**IFERROR Function**</p>
 
 ![iferror](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/71cef3c6-a07b-42b0-b24c-999d7858346b)
 
-**IFNA Function**
+## <p align="center">**IFNA Function**</p>
 
 ![ifna](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/9cfee309-d21e-46b6-804e-7247a6ecc0bd)
 
-**COUNTIF Function**
+## <p align="center">**COUNTIF Function**</p>
 
 ![countif](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/be6205b9-9c16-41ba-959d-c2e89bd02529)
 
-**SUMIF Function**
+## <p align="center">**SUMIF Function**</p>
 
 ![sumif](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/dd41308d-e28b-407d-a3b1-15a46f268234)
 
