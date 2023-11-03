@@ -27,25 +27,25 @@
 
 # <p align="center">![power](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/50b4985f-5255-4fa6-8753-89272bda28a0)</p>
 
-**SQRT Function**
+## <p align="center">**SQRT Function**</p>
 
-![sqrt](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/e3a57b4b-d016-4e99-9f3f-b3afc9439b12)
+# <p align="center">![sqrt](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/e3a57b4b-d016-4e99-9f3f-b3afc9439b12)</p>
 
 **QUOTIENT Function**
 
-![quotient](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/8b00e653-dba6-4cac-97c2-9ea617a0acf7)
+# <p align="center">![quotient](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/8b00e653-dba6-4cac-97c2-9ea617a0acf7)</p>
 
 **MOD Function**
 
-![mod](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/bc26ff0f-a18d-49ee-b7fb-a898cf97da9f)
+# <p align="center">![mod](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/bc26ff0f-a18d-49ee-b7fb-a898cf97da9f)</p>
 
 **AVERAGE Function**
 
-![average](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/7545054d-c0af-424c-9b7f-48e4348d76b9)
+# <p align="center">![average](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/7545054d-c0af-424c-9b7f-48e4348d76b9)</p>
 
 **AVERAGEIFS Function**
 
-![averageifs](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/7cf872f6-dda5-450f-b0bb-f8ac09e4b7c7)
+# <p align="center">![averageifs](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/7cf872f6-dda5-450f-b0bb-f8ac09e4b7c7)</p>
 
 Data Science Using MS Excel Part 2B-2: Math Functions (COUNT,COUNTA,COUNTBLANK,LARGE,SMALL,MIN&MAX,SUM,MEDIAN,PRODUCT,SUBTOTAL)
 
