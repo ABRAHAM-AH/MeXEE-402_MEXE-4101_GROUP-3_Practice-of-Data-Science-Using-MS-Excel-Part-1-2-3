@@ -1,7 +1,7 @@
 # MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel
 _"Using Microsoft Excel to Practice Data Science along with its Functions"_
 
-Data Science Using MS Excel Part 1: Text Functions
+# <p align="center">Data Science Using MS Excel Part 1: Text Functions</p>
 # <p align="center">![text](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/c2d6cba8-40da-4eba-be30-cda6ea525894)</p>
 
 Data Science Using MS Excel Part 2A: Math Functions (ABS,SIGN,GCD,LCM)
