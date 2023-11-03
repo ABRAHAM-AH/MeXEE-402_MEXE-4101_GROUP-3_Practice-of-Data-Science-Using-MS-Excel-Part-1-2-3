@@ -31,19 +31,19 @@
 
 # <p align="center">![sqrt](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/e3a57b4b-d016-4e99-9f3f-b3afc9439b12)</p>
 
-**QUOTIENT Function**
+## <p align="center">**QUOTIENT Function**</p>
 
 # <p align="center">![quotient](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/8b00e653-dba6-4cac-97c2-9ea617a0acf7)</p>
 
-**MOD Function**
+## <p align="center">**MOD Function**</p>
 
 # <p align="center">![mod](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/bc26ff0f-a18d-49ee-b7fb-a898cf97da9f)</p>
 
-**AVERAGE Function**
+## <p align="center">**AVERAGE Function**</p>
 
 # <p align="center">![average](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/7545054d-c0af-424c-9b7f-48e4348d76b9)</p>
 
-**AVERAGEIFS Function**
+## <p align="center">**AVERAGEIFS Function**</p>
 
 # <p align="center">![averageifs](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/7cf872f6-dda5-450f-b0bb-f8ac09e4b7c7)</p>
 
