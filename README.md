@@ -4,11 +4,11 @@
 # <p align="center">Data Science Using MS Excel Part 1: Text Functions</p>
 # <p align="center">![text](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/c2d6cba8-40da-4eba-be30-cda6ea525894)</p>
 
-Data Science Using MS Excel Part 2A: Math Functions (ABS,SIGN,GCD,LCM)
+# <p align="center">Data Science Using MS Excel Part 2A: Math Functions (ABS,SIGN,GCD,LCM)</p>
 
-**ABS Function**
+## <p align="center">**ABS Function**</p>
 
-![abs](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/a16d7917-f843-4062-9a88-76d9d7d47a5c)
+# <p align="center">![abs](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/a16d7917-f843-4062-9a88-76d9d7d47a5c)</p>
 
 **SIGN Function**
 
