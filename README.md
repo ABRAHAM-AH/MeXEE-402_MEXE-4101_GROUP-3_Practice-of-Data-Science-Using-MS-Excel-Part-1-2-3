@@ -17,9 +17,9 @@
 
 # <p align="center">![gcd](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/766a2863-7558-47ba-bdec-ec341cc10efd)</p>
 
-**LCM Function**
+## <p align="center">**LCM Function**</p>
 
-![lcm](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/506c0008-ad4f-4fd6-b873-e642d7bee363)
+# <p align="center">![lcm](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/506c0008-ad4f-4fd6-b873-e642d7bee363)</p>
 
 Data Science Using MS Excel Part 2B-1: Math Functions (POWER,SQRT,QUOTIENT,MOD,AVERAGE,AVERAGEIFS)
 
