@@ -153,4 +153,5 @@
 
 # <p align="center">![sumif](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/dd41308d-e28b-407d-a3b1-15a46f268234)</p>
 
-# **AUTHORS: ANGELA ABRAHAM, JHODIELEN MARABI, NIKKITA ANDREA ROXAS**
+
+# <p align="center">**AUTHORS: ANGELA ABRAHAM, JHODIELEN MARABI, NIKKITA ANDREA ROXAS**</p>
