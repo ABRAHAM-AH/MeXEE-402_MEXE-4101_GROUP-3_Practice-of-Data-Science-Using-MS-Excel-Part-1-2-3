@@ -93,23 +93,23 @@
 
 ## <p align="center">**CEILING&FLOOR Function**</p>
 
-![ceiling floor](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/87d1caca-b200-4592-8714-a7ce9258f45c)
+# <p align="center">![ceiling floor](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/87d1caca-b200-4592-8714-a7ce9258f45c)</p>
 
 ## <p align="center">**EVEN Function**</p>
 
-![even](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/c7ed256d-0b5c-4a31-ba39-819493ebc253)
+# <p align="center">![even](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/c7ed256d-0b5c-4a31-ba39-819493ebc253)</p>
 
 ## <p align="center">**ODD Function**</p>
 
-![odd](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/2b5c8984-a3a9-40c9-8730-6196c0fadd12)
+# <p align="center">![odd](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/2b5c8984-a3a9-40c9-8730-6196c0fadd12)</p>
 
 ## <p align="center">**ROUND Function**</p>
 
-![round](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/a62acfb6-8d49-403e-ac34-4eaea476c9c0)
+# <p align="center">![round](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/a62acfb6-8d49-403e-ac34-4eaea476c9c0)</p>
 
 ## <p align="center">**TRUNC Function**</p>
 
-![trunc](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/29755c6c-ac8c-4b95-ba6f-296bc16a89a8)
+# <p align="center">![trunc](https://github.com/ABRAHAM-AH/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-1-2-3/assets/143601880/29755c6c-ac8c-4b95-ba6f-296bc16a89a8)</p>
 
 Data Science Using MS Excel Part 3: Logical Functions (IF,AND,OR,NOT,XOR,ISBLANK,IFERROR,IFNA,COUNTIF,SUMIF)
 
